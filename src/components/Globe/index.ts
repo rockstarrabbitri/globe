@@ -1,0 +1,1 @@
+export { _Component as Component } from "./Globe.component";
